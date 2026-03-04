@@ -22,7 +22,7 @@
 
 ### 🔗 Ссылки:
 * **Мой сайт-визитка:** [https://krim1ock.github.io](https://krim1ock.github.io)
-* **Связаться со мной:** [твой.email@example.com]
+* **Связаться со мной:** [semapyzakov92@gmail.com]
 
 ---
 
