@@ -21,11 +21,11 @@
 ---
 
 ### 🔗 Ссылки:
-* **Мой сайт-визитка:** [https://krim1ock.github.io](https://krim1ock.github.io)
+* **Мой сайт-визитка:** [[https://krim1ock.github.io](https://krim1ock.github.io](https://krim1ock.github.io/krimlock.github.io/))
 * **Связаться со мной:** [semapyzakov92@gmail.com]
 
 ---
 
 ### 📊 Моя статистика GitHub:
 ![GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=krim1ock&show_icons=true&theme=radical)
-![Top Langs]([https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=krim1ock&layout=compact&theme=radical](https://krim1ock.github.io/krimlock.github.io/))
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=krim1ock&layout=compact&theme=radical)
