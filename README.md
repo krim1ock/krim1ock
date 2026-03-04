@@ -28,4 +28,4 @@
 
 ### 📊 Моя статистика GitHub:
 ![GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=krim1ock&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=krim1ock&layout=compact&theme=radical)
+![Top Langs]([https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=krim1ock&layout=compact&theme=radical](https://krim1ock.github.io/krimlock.github.io/))
